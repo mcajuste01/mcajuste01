@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mcajuste01
+- 👋 Hi, I’m Michel Cajuste, jr.
 - 👀 I’m interested in everything tech and I have been since I was about 10yrs old.
 - 🌱 I’m currently learning about AWS, Google Cloud, and Azure to further my knowledge on all things cloud-based.
 - 💞️ I’m looking to collaborate on learning more programming languages.
